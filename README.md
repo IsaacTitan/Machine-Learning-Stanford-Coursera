@@ -11,7 +11,7 @@ In this repository I share **my source code** of all the projects from **[Course
  - **Keywords:** Compute cost and gradient for logistic regression, Predict function
  - **Code:** <a href="./machine-learning-ex2/ex2/ex2.m"> (code) </a>
  
-#### [P3 - Neural Network and Multi-class Classification](Project_3_Neural_Network_Multi_Classification++)
+#### [P3 - Neural Network and Multi-class Classification](Project_3_Neural_Network_Multi_Classification)
  - **Keywords:** Regularized logistic regression, One-vs-all classifier prediction, Neural network prediction function
  - **Code:** 
 	- <a href="./machine-learning-ex3/ex3/ex3.m"> (code) </a>
