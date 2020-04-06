@@ -34,14 +34,14 @@ In this repository I share **my source code** of all the projects from **[Course
  #### [P7 - K-Means Clustering and PCA](Project_7_K-Means_Clustering_and_PCA)
  - **Keywords:** Find closest centroids, Compute centroid means, PCA
  - **Code:** 
-	- <a href="./Means_Clustering_and_PCA/machine-learning-ex7/ex7/ex7.m"> (code) </a>
-	- <a href="./Means_Clustering_and_PCA/machine-learning-ex7/ex7/ex7_pca.m"> (code) </a>
+	- <a href="./Project_7_K-Means_Clustering_and_PCA/machine-learning-ex7/ex7/ex7.m"> (code) </a>
+	- <a href="./Project_7_K-Means_Clustering_and_PCA/machine-learning-ex7/ex7/ex7_pca.m"> (code) </a>
  
  #### [P8 - Anomaly Detection and Recommender Systems](Project_8_Anomaly_Detection_and_Recommender_Systems)
  - **Keywords:** Estimate gaussian parameters, Collaborative filtering cost and gradient
  - **Code:** 
-	- <a href="./Project_8_Anomaly_Detection_and_Recommender_Systems/machine-learning-ex8/ex8/ex8.m"> (code) </a>
-	- <a href="./Project_8_Anomaly_Detection_and_Recommender_Systems/machine-learning-ex8/ex8/ex8_cofi.m"> (code) </a>
+	- <a href="./Project_8_Anomaly_Detection_and_Recommender_Systems/ex8/ex8.m"> (code) </a>
+	- <a href="./Project_8_Anomaly_Detection_and_Recommender_Systems/ex8/ex8_cofi.m"> (code) </a>
  
 <p align="center">
   <img src="https://www.skillbyte.de/wp-content/uploads/2016/07/machine_learning.jpg" width="400">
